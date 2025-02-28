@@ -2,7 +2,7 @@
 
 <div id="badges align="center">
   <a href="mailto:i.isupova@g.nsu.ru">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)"/>
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)"/>
   </a>
   <a href="[your-tg-URL](https://t.me/shes73)">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
