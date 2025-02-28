@@ -1,18 +1,19 @@
 ## it is what it is
 
-# Shortly about me:
+### Shortly about me:
 🧬 22 y.o. NSU student (Departement of Natural Sciences)
 
 📖 studied at School 21 & SHIFT
 
 👩🏻‍💻 work as а computational chemist
 
-# Languages I use:
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,py)](https://skillicons.dev)
+### My skills:
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,linux,bash,postgres,docker)](https://skillicons.dev)
 
-# Languages I learn:
+### Languages I learn:
+[![My Skills](https://skillicons.dev/icons?i=cs,rust)](https://skillicons.dev)
 
-# My LeetCode stats:
+### My LeetCode stats:
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/shes73)](https://leetcode.com/shes73)
 
