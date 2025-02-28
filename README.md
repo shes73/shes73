@@ -1,11 +1,11 @@
 ## it is what it is
 
 <div id="badges align="center">
-  <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="mailto:i.isupova@g.nsu.ru">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)"/>
   </a>
   <a href="[your-tg-URL](https://t.me/shes73)">
-    <img src="https://img.shields.io/badge/tg-black?style=for-the-badge&logo=tg&logoColor=white" alt="Telegram Badge"/>
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
   <a href="[your-VK-URL](https://vk.com/isupovailona)">
     <img src="https://img.shields.io/badge/Vk?style=for-the-badge&logo=Vk&logoColor=white" alt="VK Badge"/>
