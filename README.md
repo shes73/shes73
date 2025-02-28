@@ -1,4 +1,14 @@
-## Hi there 👋
+## it is what it is
+
+Shortly about me:
+- 
+-
+-
+
+My LeetCode stats:
+[![Leetcode Stats](https://leetcard.jacoblin.cool/shes73)](https://leetcode.com/shes73)
+
+Me stepik stats:
 
 <!--
 **shes73/shes73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
