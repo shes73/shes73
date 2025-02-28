@@ -5,10 +5,10 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="[your-tg-URL](https://t.me/shes73)">
-    <img src="https://img.shields.io/badge/tg-blue?style=for-the-badge&logo=tg&logoColor=white" alt="Telegram Badge"/>
+    <img src="https://img.shields.io/badge/tg-black?style=for-the-badge&logo=tg&logoColor=white" alt="Telegram Badge"/>
   </a>
   <a href="[your-VK-URL](https://vk.com/isupovailona)">
-    <img src="https://img.shields.io/badge/vk?style=for-the-badge&logo=vk&logoColor=white" alt="VK Badge"/>
+    <img src="https://img.shields.io/badge/VK?style=for-the-badge&logo=vk&logoColor=white" alt="VK Badge"/>
   </a>
 </div>
 
