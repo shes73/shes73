@@ -5,7 +5,12 @@
 
 📖 studied at School 21 & SHIFT
 
-👩🏻‍💻 work as computational chemist
+👩🏻‍💻 work as а computational chemist
+
+# Languages I use:
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,py)](https://skillicons.dev)
+
+# Languages I learn:
 
 # My LeetCode stats:
 
