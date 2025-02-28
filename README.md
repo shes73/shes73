@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
   <a href="[your-VK-URL](https://vk.com/isupovailona)">
-    <img src="https://img.shields.io/badge/Vk?style=for-the-badge&logo=Vk&logoColor=white" alt="VK Badge"/>
+    <img src="https://img.shields.io/badge/VK?style=for-the-badge&logo=Vk&logoColor=white" alt="VK Badge"/>
   </a>
 </div>
 
