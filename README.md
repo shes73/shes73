@@ -2,7 +2,9 @@
 
 # Shortly about me:
 🧬 22 y.o. NSU student (Departement of Natural Sciences)
+
 📖 studied at School 21 & SHIFT
+
 👩🏻‍💻 work as computational chemist
 
 # My LeetCode stats:
