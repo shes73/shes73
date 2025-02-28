@@ -1,15 +1,16 @@
 ## it is what it is
 
-Shortly about me:
-- 
--
--
+# Shortly about me:
+- 22 y.o. NSU student (Departement of Natural Sciences, Chemistry)
+- studied at School 21 & SHIFT
+- work as computational chemist
+- languages I use: C/C++, Python
+- currently learning: Rust, C#
 
-My LeetCode stats:
+# My LeetCode stats:
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/shes73)](https://leetcode.com/shes73)
 
-Me stepik stats:
 
 <!--
 **shes73/shes73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
