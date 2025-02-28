@@ -1,11 +1,9 @@
 ## it is what it is
 
 # Shortly about me:
-- 22 y.o. NSU student (Departement of Natural Sciences, Chemistry)
-- studied at School 21 & SHIFT
-- work as computational chemist
-- languages I use: C/C++, Python
-- currently learning: Rust, C#
+🧬 22 y.o. NSU student (Departement of Natural Sciences)
+📖 studied at School 21 & SHIFT
+👩🏻‍💻 work as computational chemist
 
 # My LeetCode stats:
 
