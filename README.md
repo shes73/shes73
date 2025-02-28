@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="[your-VK-URL](https://vk.com/isupovailona)">
-    <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=vk&logoColor=white" alt="Вконтакте Badge"/>
+    <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=Вконтакте&logoColor=white" alt="Вконтакте Badge"/>
   </a>
 </div>
 
