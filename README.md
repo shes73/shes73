@@ -1,6 +1,6 @@
 ## it is what it is
 
-<div id="badges align="center">
+<div id="badges">
   <a href="mailto:i.isupova@g.nsu.ru">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)"/>
   </a>
