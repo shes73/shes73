@@ -1,5 +1,17 @@
 ## it is what it is
 
+<div id="badges align="center">
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="[your-tg-URL](https://t.me/shes73)">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="[your-VK-URL](https://vk.com/isupovailona)">
+    <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=vk&logoColor=white" alt="VK Badge"/>
+  </a>
+</div>
+
 ### Shortly about me:
 🧬 22 y.o. NSU student (Departement of Natural Sciences)
 
