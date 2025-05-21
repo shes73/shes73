@@ -17,7 +17,7 @@
 👩🏻‍💻 work as а computational chemist
 
 ### My skills:
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,linux,bash,postgres,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,linux,bash,postgres)](https://skillicons.dev)
 
 ### Languages I learn:
 [![My Skills](https://skillicons.dev/icons?i=cs,rust)](https://skillicons.dev)
